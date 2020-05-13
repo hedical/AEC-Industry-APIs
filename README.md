@@ -18,4 +18,5 @@ API | Description | Auth | HTTPS | CORS | Link |
 
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| Walkscore | We can provide Walk Score data for individual addresses or larger geographic areas like postal codes. Walk Score data is available in the United States and Canada. Walk Score and Transit Score are patented systems, multiple other patents are pending. | Yes | Yes | Unknown | [Go!](https://www.walkscore.com/) |
+| Walkscore | Walkscore, Transit score with an address | Yes | Yes | Unknown | [Go!](https://www.walkscore.com/) |
+| Teleport | Many information about cities : Life quality data, basic city info, pictures, weather ... | Yes | Yes | Unknown | [Go!](https://developers.teleport.org/api/) |
