@@ -20,3 +20,5 @@ API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | Walkscore | Walkscore, Transit score with an address | Yes | Yes | Unknown | [Go!](https://www.walkscore.com/) |
 | Teleport | Many information about cities : Life quality data, basic city info, pictures, weather ... | Yes | Yes | Unknown | [Go!](https://developers.teleport.org/api/) |
+| Iso4App | Create isochrones map from address ... | Demo | Yes | Unknown | [Go!](https://www.iso4app.net/) |
+
