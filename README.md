@@ -1,10 +1,10 @@
-# Motivation
-Centralize all APIs that could be used in the AEC industry
+# APIs for AEC
+Centralize all APIs related to AEC industry
 
 # Index
 - BIM
 - Real Estate
-- Energy
+- Energy (incoming)
 
 # Table
 
