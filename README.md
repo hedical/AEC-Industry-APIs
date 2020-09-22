@@ -23,3 +23,5 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Iso4App | Create isochrones map from address ... | Demo | Yes | Unknown | [Go!](https://www.iso4app.net/) |
 | FoxyAI | Manage AMVs for real estate pictures ... | Yes | Yes | Unknown | [Go!](https://www.foxyai.com/doc-api/#updates) |
 | REalyse | High source of information for UK residential market ... | Yes | Yes | Unknown | [Go!](https://learn.realyse.com/request-a-free-trial-api) |
+| Estated | Details about houses/properties ... | Yes | Yes | Unknown | [Go!](https://estated.com/developers/docs/v4) |
+
