@@ -22,4 +22,4 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Teleport | Many information about cities : Life quality data, basic city info, pictures, weather ... | Yes | Yes | Unknown | [Go!](https://developers.teleport.org/api/) |
 | Iso4App | Create isochrones map from address ... | Demo | Yes | Unknown | [Go!](https://www.iso4app.net/) |
 | FoxyAI | Manage AMVs for real estate pictures ... | Yes | Yes | Unknown | [Go!](https://www.foxyai.com/doc-api/#updates) |
-
+| REalyse | High source of information for UK residential market ... | Yes | Yes | Unknown | [Go!](https://learn.realyse.com/request-a-free-trial-api) |
