@@ -25,3 +25,4 @@ API | Description | Auth | HTTPS | CORS | Link |
 | REalyse | High source of information for UK residential market ... | Yes | Yes | Unknown | [Go!](https://learn.realyse.com/request-a-free-trial-api) |
 | Estated | Details about houses/properties ... | Yes | Yes | Unknown | [Go!](https://estated.com/developers/docs/v4) |
 | Clarifai | Computer vision for all kind of pictures | Yes | Yes | Unknown | [Go!](https://docs.clarifai.com/api-guide/api-overview) |
+| Cityscan | API for estimating, market analysis, land identification | Yes | Yes | Unknown | [Go!](https://www.cityscan.fr/widgets-et-api/) |
